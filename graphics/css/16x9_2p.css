@@ -10,8 +10,11 @@
 
 /* Runner name dynamic text. */
 .runner-name {
-	/* max-width: 230px; */
 	text-align: left;
+}
+
+.pronouns {
+	font-size: 35px;
 }
 
 /* Player 1 info position. */

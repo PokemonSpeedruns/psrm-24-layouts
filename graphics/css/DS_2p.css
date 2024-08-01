@@ -10,19 +10,20 @@
 
 /* Runner name dynamic text. */
 .runner-name {
+	font-size: 24pt;
 	max-width: 430px;
 }
 
 /* Player 1 info position. */
 #runner-container1 {
 	left: 345px;
-	top: 722px;
+	top: 720px;
 }
 
 /* Player 2 info position. */
 #runner-container2 {
 	left: 967px;
-	top: 722px;
+	top: 720px;
 }
 
 
@@ -48,7 +49,9 @@
 
 /* Comms name dynamic text. */
 .comms-name {
+	font-size: 24pt;
 	max-width: 430px;
+	padding-right: 44px;
 }
 
 /* Game name panel. */
